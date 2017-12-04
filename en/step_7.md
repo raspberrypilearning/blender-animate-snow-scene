@@ -28,8 +28,8 @@ The car now drives around the trees towards the snowman. However, you may have n
 
 + Rotate the car using the rotation tool so that it is pointing in the direction of the snowman.
 
-![Rotate the car](images/blender-rotate-car)
+![Rotate the car](images/blender-rotate-car.png)
 
 + Click on the key button to re-add the keyframe.
 
-+ Press play to see what it looks like. It probably looks like the car is driving on ice. A bit funny, but good enough for now. Try to improve the animation.
++ Press play to see what it looks like. It probably looks like the car is driving on ice. Quite funny, but good enough for now. Try to improve the animation.
