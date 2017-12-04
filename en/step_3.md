@@ -2,17 +2,17 @@
 
 + Download and open the [starter project](resources/snow-scene-starter.blend){:target="_blank"}
 
-The car will follow this route:
+You will animate the car to follow this route:
 
 ![Car route](images/blender-proper-car-route.png)
 
 The first thing you should do when animating is check where the camera is.
 
-+ Press <kbd>F12<kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the image looks like.
++ Press <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the image looks like.
 
 ![Initial render](images/blender-initial-render.png)
 
-The camera angle is not quite right as you can only see the snowman's head at the bottom rather than the whole snowman.
+The camera angle is not quite right as you can only see the tip of the snowman's head at the bottom rather than the whole snowman.
 
 + Press <kbd>ESC</kbd> to get out of the render view.
 
