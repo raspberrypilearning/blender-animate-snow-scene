@@ -2,12 +2,8 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ A desktop or laptop computer capable of running the Blender software
 
 ### Software
 
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
