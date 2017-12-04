@@ -5,8 +5,8 @@ Learn how to animate a car driving through a snow scene using Blender.
 ### What you will make
 
 Here is how your finished piece will look:
-
-[Sketchfab]
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+</div>
 
 ### What you will learn
 
