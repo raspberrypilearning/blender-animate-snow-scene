@@ -16,3 +16,4 @@ steps:
   - title: Where is the camera?
   - title: Keyframing
   - title: Keyframe the first frame
+  - title: Keyframe the end frame

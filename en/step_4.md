@@ -1,8 +1,8 @@
 ## Keyframing
 
-With a stop frame animation (also known as "stop motion") you have to create all of the frames by yourself.
+With a stop frame animation (also known as "stop motion") you have to create all of the frames by yourself. This is a lot of work, so you are going to use **keyframing**.
 
-**Keyframing** animation takes particular images at certain times in a movie and asks the computer to work out all the other images in between. For example, if the car starts at its current position and 4 seconds later it should be next to the snowman, the computer will work out a way of driving the car from the starting position to the snowman - you don't have to create all the frames by yourself.
+**Keyframe** animation takes particular images at certain times in a movie and asks the computer to work out all the other images in between. For example, if the car starts at its current position and 4 seconds later it should be next to the snowman, the computer will work out a way of driving the car from the starting position to the snowman - you don't have to create all the frames by yourself.
 
 At the bottom of Blender there is a timeline (with a green bar).
 
