@@ -1,7 +1,7 @@
 title: Animate a snow scene
 hero_image: images/banner.png
 description: Learn how to animate a car driving through a snow scene using Blender.
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
 ingredient: false
