@@ -6,4 +6,4 @@
 
 ### Software
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or higher)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or newer)
