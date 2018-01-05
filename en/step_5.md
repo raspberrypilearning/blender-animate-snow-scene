@@ -10,14 +10,14 @@ Let's set frame 1 as the first key frame. This is like telling the computer "At 
 
 + Make sure that the car is selected — right-click on it to select it.
 
-+ Click the **keys** icon at the bottom of the timeline, and select **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Click the **Keys** icon at the bottom of the timeline, and select **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
 ![Keys](images/blender-keys.png)
 ![LocRotScale](images/blender-locrotscale.png)
 
 The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
 
-+ Click the small key on the right-hand side of the **keys** icon to create a **key frame**.
++ Click on the small key on the right-hand side of the **Keys** icon to create a key frame.
 
 ![Small key](images/small-key.png)
 
