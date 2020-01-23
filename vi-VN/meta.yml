@@ -1,0 +1,34 @@
+---
+title: Animate a snow scene
+hero_image: images/banner.png
+description: Animate a car driving through a snow scene using Blender
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
+interests: weather, art
+technologies: blender
+site_areas: dự án
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn sẽ cần
+  - 
+    title: Where is the camera?
+  - 
+    title: Keyframing
+  - 
+    title: Key frame the first frame
+  - 
+    title: Key frame the end frame
+  - 
+    title: Fine-tune the animation
+  - 
+    title: "Challenge: launch the rocket"
