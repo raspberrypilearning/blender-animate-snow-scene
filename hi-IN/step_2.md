@@ -1,9 +1,9 @@
-## What you will need
+## आपको किन चीज़ों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-+ A desktop or laptop computer capable of running the Blender software
++ Blender सॉफ्टवेयर चलाने में सक्षम डेस्कटॉप या लैपटॉप कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.73 या उससे नया)
