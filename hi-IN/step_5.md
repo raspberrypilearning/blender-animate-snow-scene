@@ -1,22 +1,24 @@
-## Key frame the first frame
+## मुख्य फ्रेम पहला फ्रेम
 
-The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
+फ्रेम 1 में कार अपनी आरंभ स्थिति में है, और फ्रेम 90 में इसे स्नोमैन के बगल में होना चाहिए।
 
-Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
+चलिए फ्रेम 1 को पहले मुख्य फ्रेम के रूप में सेट करते हैं। यह कंप्यूटर को यह बताने जैसा है कि "फ्रेम 1 पर, याद रखें कि आप यहाँ पर हैं।"
 
-+ Make sure that you are on frame 1 by checking the frame number at the bottom of the timeline.
++ टाइमलाइन में नीचे फ्रेम संख्या की जाँच करके सुनिश्चित करें कि आप फ्रेम 1 पर हैं।
 
-![Frame one](images/blender-frame-1.png)
+![फ्रेम एक](images/blender-frame-1.png)
 
-+ Make sure that the car is selected — right-click on it to select it.
++ सुनिश्चित करें कि कार का चयन किया गया है - इसे चुनने के लिए इस पर राइट-क्लिक करें।
 
-+ Click the **Keys** icon at the bottom of the timeline, and select **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ टाइमलाइन के नीचे **कुंजियाँ** आइकन पर क्लिक करें और आरंभ के फ्रेम में कार के स्थान, रोटेशन और स्केल को रिकॉर्ड करने के लिए **लोकरोटस्केल** का चयन करें।
 
-![Keys](images/blender-keys.png) ![LocRotScale](images/blender-locrotscale.png)
+![कुंजियाँ](images/blender-keys.png)
+
+![LocRotScale](images/blender-locrotscale.png)
 
 The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
 
-+ Click on the small key on the right-hand side of the **Keys** icon to create a key frame.
++ मुख्य फ्रेम बनाने के लिए **कुंजियाँ** आइकन के दाईं ओर छोटी कुंजी पर क्लिक करें।
 
 ![Small key](images/small-key.png)
 
