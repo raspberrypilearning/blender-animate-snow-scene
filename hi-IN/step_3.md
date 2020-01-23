@@ -1,31 +1,31 @@
-## Where is the camera?
+## कैमरा कहाँ है?
 
-+ Download and open the [starter project](resources/snow-scene-starter.blend){:target="_blank"}.
++ [स्टार्टर प्रोजेक्ट](resources/snow-scene-starter.blend){:target="_blank"} डाउनलोड करें और खोलें।
 
-You will animate the car to follow this route:
+आप इस मार्ग का पालन करने के लिए कार को एनिमेट करेंगे:
 
-![Car route](images/blender-proper-car-route.png)
+![कार मार्ग](images/blender-proper-car-route.png)
 
-The first thing you should do when animating is check where the camera is.
+एनिमेट करते समय आपको सबसे पहले यह जाँच करनी चाहिए कि कैमरा कहाँ है।
 
-+ Go to render view by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the scene looks like.
++ यह देखने के लिए कि दृश्य कैसा दिखाई देता है <kbd>F12</kbd> दबाकर (या यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाकर) दृश्य प्रस्तुति में जाएँ।
 
-![Initial render](images/blender-initial-render.png)
+![प्रारंभिक प्रस्तुति](images/blender-initial-render.png)
 
-The camera angle is not quite right, as you can only see the tip of the snowman's head at the bottom of the screen, and not the whole snowman.
+कैमरे का कोण पूरी तरह सही नहीं है, क्योंकि आप स्क्रीन के निचले भाग में स्नोमैन के सिर का केवल ऊपरी हिस्सा देख सकते हैं, पूरा स्नोमैन नहीं।
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ दृश्य प्रस्तुति से बाहर निकलने के लिए <kbd>ESC</kbd> (एस्केप) दबाएँ।
 
-+ Right-click on the camera to select it.
++ कैमरा चुनने के लिए उस पर राइट-क्लिक करें।
 
-+ Rotate your view a little bit until you can see both the camera and the scene.
++ अपने दृश्य को तब तक थोड़ा-थोड़ा घुमाते रहें जब तक आपको कैमरा और दृश्य दोनों दिखाई न देने लग जाएँ।
 
-![Move the camera](images/blender-snowscene-move-camera.png)
+![कैमरे को चलाएँ](images/blender-snowscene-move-camera.png)
 
-+ Move the camera down using the blue handle.
++ नीले हैंडल का उपयोग करके कैमरे को नीचे ले जाएँ।
 
-+ Go to render view by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> on a Mac) again to check whether you can now see the whole snowman.
++ यह देखने के लिए कि क्या अब आप पूरा स्नोमैन देख पाते हैं या नहीं, दुबारा <kbd>F12</kbd> (मैक पर <kbd>FN + F12</kbd>) को दबाकर दृश्य प्रस्तुति में जाएँ।
 
-If not, exit the render view and lower the camera a little bit more. If the camera is too low, pull it up a little bit instead. Continue rendering and checking until you have everything in view.
+यदि नहीं, तो दृश्य प्रस्तुति से बाहर निकलें और कैमरे को थोड़ा और नीचा करें। अगर कैमरा बहुत नीचा है, तो इसे थोड़ा सा ऊपर खींचें। प्रस्तुति और जाँच करना तब तक जारी रखें जब तक आपको सब कुछ दिखाई न दे।
 
-![Final render](images/blender-final-render.png)
+![अंतिम प्रस्तुति](images/blender-final-render.png)
