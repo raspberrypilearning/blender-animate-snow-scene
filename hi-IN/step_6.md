@@ -1,27 +1,27 @@
-## Key frame the end frame
+## मुख्य फ्रेम अंतिम फ्रेम
 
-+ Move the green bar on the timeline to frame 90. You can check the frame number in the menu at the bottom.
++ टाइमलाइन पर हरी पट्टी को फ्रेम 90 पर ले जाएँ। आप नीचे मेनू में फ्रेम संख्या की जाँच कर सकते हैं।
 
-![Frame 90](images/blender-frame-90.png)
+![फ्रेम 90](images/blender-frame-90.png)
 
-+ Move the car next to the snowman using the blue, green, and red handles.
++ नीले, हरे और लाल हैंडल का उपयोग करके कार को स्नोमैन के बगल में ले जाएँ।
 
-![Move next to snowman](images/blender-car-nexto-snowman.png)
+![स्नोमैन के बगल में ले जाएँ](images/blender-car-nexto-snowman.png)
 
-Now the car is next to the snowman in frame 90.
+अब कार फ्रेम 90 में स्नोमैन के बगल में है।
 
-+ Click the **Key** icon again. A yellow bar should appear on the timeline at frame 90.
++ **Key** (कुंजी) आइकन को फिर से क्लिक करें। टाइमलाइन पर फ्रेम 90 पर एक पीली पट्टी दिखाई देनी चाहिए।
 
-![Key button](images/small-key.png)
+![कुंजी बटन](images/small-key.png)
 
-The computer will work out all the steps of the animation in between frame 1 and frame 90.
+कंप्यूटर फ्रेम 1 और फ्रेम 90 के बीच के एनिमेशन के सभी चरणों का समाधान करेगा।
 
-+ Move the green bar on the time line to frame 0, or type in 0 at the bottom.
++ टाइमलाइन पर हरे रंग की पट्टी को फ्रेम 0 पर ले जाएँ, या नीचे 0 टाइप करें।
 
-+ Click **Play** on the controls at the bottom.
++ नीचे दिए गए कंट्रोल्स पर **Play** (प्ले) को क्लिक करें।
 
-![Press play](images/blender-play.png)
+![प्ले दबाएँ](images/blender-play.png)
 
-The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+कार अपनी आरंभ की स्थिति से स्नोमैन के बगल में चली जाएगी। हालांकि, एक छोटा सा मुद्दा है - कार पेड़ों के इर्द-गिर्द जाने के बजाय सीधे पेड़ों में चली जाती है!
 
-![Car drives through trees](images/drive-through-trees.gif)
+![कार पेड़ों के बीच में से होकर निकलती है](images/drive-through-trees.gif)
