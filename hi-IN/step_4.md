@@ -1,19 +1,19 @@
-## Keyframing
+## मुख्य फ्रेम बनाना
 
-Let's animate your car!
+आइए आपकी कार को एनिमेट करें!
 
-For a stop frame animation (also known as stop motion animation), you have to create all of the frames by yourself. This is a lot of work, which is why you are going to use **keyframing**.
+स्टॉप फ्रेम एनिमेशन (जिसे स्टॉप मोशन एनिमेशन भी कहते हैं) के लिए आपको अपने सभी फ्रेम स्वयं बनाने होते हैं। यह बहुत बड़ा काम है, यही कारण है कि आप **मुख्य फ्रेम तैयार करना** का उपयोग करने जा रहे हैं।
 
-For key frame animation, the animator creates images for particular points in the animation and asks the computer to work out all the other images in between. For example, if your car starts at its current position and four seconds later it should be next to the snowman, the computer will work out a way of driving the car from the start position to the snowman — you don't have to create all the frames by yourself.
+मुख्य फ्रेम एनिमेशन के लिए, एनिमेटर एनिमेशन में विशेष स्थानों के लिए छवियाँ बनाता है और कंप्यूटर को बीच की अन्य सभी छवियाँ तैयार करने के लिए कहता है। उदाहरण के लिए, यदि आपकी कार अपनी वर्तमान स्थिति से शुरू होती है और चार सेकंड बाद उसे स्नोमैन के बगल में होना चाहिए, तो कंप्यूटर कार को शुरू की स्थिति से चला कर स्नोमैन तक ले जाने का कोई तरीका तैयार करेगा - आपको सभी फ्रेम स्वयं बनाने की ज़रूरत नहीं है।
 
-At the bottom of the Blender window, there is a timeline with a green bar.
+Blender विंडो के नीचे, एक टाइमलाइन है जिसमें हरी पट्टी है।
 
-![Timeline](images/blender-timeline.png)
+![टाइमलाइन](images/blender-timeline.png)
 
-At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
+फिलहाल यह 250 फ्रेम पर सेट है, जिसका मतलब है कि एनिमेशन के लिए कंप्यूटर से 250 छवियों की आउटपुट प्राप्त होगी। 1 सेकंड में 24 फ्रेम हैं, इसलिए 250 छवियों से आपको 10 सेकंड से थोड़े अधिक का एनिमेशन मिलेगा। इस प्रोजेक्ट के लिए, आपको केवल 4 सेकंड से थोड़े अधिक का एनिमेशन चाहिए, तो चलिए अंतिम फ्रेम को 100 पर सेट करते हैं।
 
-+ Locate the box for **End frame** at the bottom of the screen.
++ स्क्रीन के निचले हिस्से में **End frame** (अंतिम फ्रेम) के लिए बॉक्स ढूँढें।
 
-![End frame](images/end-frame.png)
+![अंतिम फ्रेम](images/end-frame.png)
 
-+ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
++ **अंतिम फ्रेम** को सेट करने के लिए बॉक्स में `100` टाइप करें, फिर <kbd>Enter</kbd> (एंटर) दबाएँ।
