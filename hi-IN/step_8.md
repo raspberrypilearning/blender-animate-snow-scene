@@ -1,9 +1,9 @@
-## Challenge: launch the rocket
+## चुनौती: रॉकेट लॉन्च करें
 
-+ There is a rocket hidden behind the hut. Can you get it to launch, fly across the scene, and squash the snowman?
++ झोपड़ी के पीछे एक रॉकेट छिपा हुआ है। क्या आप इसे लॉन्च करने, दृश्य में उड़ाने और स्नोमैन को स्क्वैश करने के लिए प्राप्त कर सकते हैं?
 
-![Flying rocket](images/blender-flying-rocket.png)
+![फ्लाइंग रॉकेट](images/blender-flying-rocket.png)
 
-+ You can download another scene to animate [here](resources/bunny-challenge.blend). It looks like this:
++ [यहाँ](resources/bunny-challenge.blend) एनिमेट करने के लिए आप एक और दृश्य डाउनलोड कर सकते हैं। यह इस तरह दिखता है:
 
-![Bunny challenge](images/blender-bunny-challenge.png)
+![बन्नी चुनौती](images/blender-bunny-challenge.png)
