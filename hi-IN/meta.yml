@@ -1,0 +1,34 @@
+---
+title: बर्फ दृश्य एनिमेट करें
+hero_image: images/banner.png
+description: Blender का उपयोग करके बर्फ दृश्य में से कार चलाने को एनिमेट करें।
+theme: नीला #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: मौसम, कला
+technologies: blender (ब्लेंडर)
+site_areas: प्रोजेक्ट
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: भूमिका
+  - 
+    title: आपको किसकी ज़रूरत होगी
+  - 
+    title: कैमरा कहाँ है?
+  - 
+    title: मुख्य फ्रेम बनाना
+  - 
+    title: मुख्य फ्रेम पहला फ्रेम
+  - 
+    title: मुख्य फ्रेमअंतिम फ्रेम
+  - 
+    title: एनिमेशन फाइन-ट्यून करें
+  - 
+    title: "चुनौती: रॉकेट लॉन्च करें"
