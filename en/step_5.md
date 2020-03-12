@@ -1,6 +1,6 @@
 ## Key frame the end frame
 
-+ Move the blue box on the timeline to frame 90. You can check the frame number in the menu to the right.
++ Move the blue box on the timeline to frame 90.
 
 ![Frame 90](images/blender-frame-90.png)
 
@@ -10,7 +10,7 @@
 
 Now the car is next to the snowman in frame 90.
 
-+ Click the small key with the + again. A yellow diamond should appear on the timeline at frame 90.
++ Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
 
 ![Small key](images/blender-key-plus.png)
 

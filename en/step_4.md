@@ -4,13 +4,13 @@ The car is at its starting position in frame 1, and it should be next to the sno
 
 Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
 
-+ Make sure that you are on frame 1 by checking the frame number at the bottom of the timeline.
++ Make sure that you are on frame 1 by checking the frame number above the timeline.
 
 ![Frame one](images/blender-frame-1.png)
 
 + Make sure that the car is selected — click on it to select it.
 
-+ Click the **Keyring** dropdown menu at the bottom of the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
 ![Keys](images/blender-keyring.png)
 
