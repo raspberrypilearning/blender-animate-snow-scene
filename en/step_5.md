@@ -1,25 +1,27 @@
-## Key frame the first frame
+## Key frame the end frame
 
-The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
++ Move the blue box on the timeline to frame 90. You can check the frame number in the menu to the right.
 
-Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
+![Frame 90](images/blender-frame-90.png)
 
-+ Make sure that you are on frame 1 by checking the frame number at the bottom of the timeline.
++ Move the car next to the snowman using the move tool and the blue, green, and red handles.
 
-![Frame one](images/blender-frame-1.png)
+![Move next to snowman](images/blender-car-nexto-snowman.png)
 
-+ Make sure that the car is selected — right-click on it to select it.
+Now the car is next to the snowman in frame 90.
 
-+ Click the **Keys** icon at the bottom of the timeline, and select **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Click the small key with the + again. A yellow diamond should appear on the timeline at frame 90.
 
-![Keys](images/blender-keys.png)
+![Small key](images/blender-key-plus.png)
 
-![LocRotScale](images/blender-locrotscale.png)
+The computer will work out all the steps of the animation in between frame 1 and frame 90.
 
-The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
++ Move the blue box on the time line to frame 0.
 
-+ Click on the small key on the right-hand side of the **Keys** icon to create a key frame.
++ Click **Play** on the controls at the bottom.
 
-![Small key](images/small-key.png)
+![Press play](images/blender-play.png)
 
-You can see the key frame represented by a yellow bar on the timeline.
+The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+
+![Car drives through trees](images/drive-through-trees.gif)

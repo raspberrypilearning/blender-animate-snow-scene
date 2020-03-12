@@ -8,11 +8,31 @@ Here is how your finished piece will look:
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
 
-### What you will learn
+--- collapse ---
+---
+title: "What you will learn"
+---
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: "What you will need"
+---
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+--- /collapse ---
 
 ### Additional information for educators
 
