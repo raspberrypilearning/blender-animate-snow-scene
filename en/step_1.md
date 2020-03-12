@@ -44,7 +44,7 @@ Use the link in the footer to access the GitHub repository for this project, whi
 
 The following video tutorial covers the same concepts and includes some useful keyboard shortcuts:
 
-<iframe width="560" height="315" src="ttps://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe>
 
 ### License
 
