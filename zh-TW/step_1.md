@@ -1,27 +1,46 @@
-## 介紹
+## Introduction
 
 Learn how to animate a car driving through a snow scene using Blender.
 
-### 你會做出:
+### What you will make
 
 Here is how your finished piece will look:
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-### 你會學到:
+## \--- collapse \---
 
-這專案包含了以下幾個 [Raspberry Pi數位製作課程](http://rpf.io/curriculum){：target =“_ blank”}的基本內容：
+## title: "What you will learn"
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
 
-### Code Club 教育工作人員延伸閱讀
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: "What you will need"
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"}.
 
-使用頁腳中的連結可以訪問此專案的 GitHub 存儲庫, 該資料庫包含 "en/資源" 資料夾中的所有資源 (包括示例已完成專案)。
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/U2lXAQQBok8?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
