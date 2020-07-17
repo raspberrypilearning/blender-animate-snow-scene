@@ -7,19 +7,17 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 interests: weather, art
 technologies: blender
-site_areas: dự án
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2020-03-01
 steps:
   - 
-    title: Giới thiệu
-  - 
-    title: Những gì bạn sẽ cần
+    title: Introduction
   - 
     title: Where is the camera?
   - 
