@@ -1,27 +1,46 @@
-## מבוא
+## Introduction
 
 Learn how to animate a car driving through a snow scene using Blender.
 
-### מה תעשה
+### What you will make
 
 Here is how your finished piece will look:
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-### מה תלמד
+## \--- collapse \---
 
-פרויקט זה מכסה את הנושאים הבאים של [ תוכנית הלימודים הדיגיטלית של רספברי פי ](http://rpf.io/curriculum):
+## title: "What you will learn"
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
 
-### מידע נוסף למורי המועדון
+\--- /collapse \---
 
-אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print).
+## \--- collapse \---
 
-השתמש בקישור בכותרת התחתונה לגישה לGitHub עבור פרויקט זה, אשר מכיל את כל המשאבים (כולל פרויקט סיום לדוגמה) בתיקיה ‘en/resources'.
+## title: "What you will need"
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/U2lXAQQBok8?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"}.
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
