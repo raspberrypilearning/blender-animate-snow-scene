@@ -1,34 +1,32 @@
 ---
-title: बर्फ दृश्य एनिमेट करें
+title: बर्फ का दृश्य (drshy) एनिमेट करें
 hero_image: images/banner.png
 description: Blender का उपयोग करके बर्फ दृश्य में से कार चलाने को एनिमेट करें।
-theme: नीला #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: मौसम, कला
+interests: weather, art
 technologies: blender (ब्लेंडर)
-site_areas: प्रोजेक्ट
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2020-03-01
 steps:
   - 
-    title: भूमिका
+    title: परिचय
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: Where is the camera?
   - 
-    title: कैमरा कहाँ है?
+    title: Keyframing
   - 
-    title: मुख्य फ्रेम बनाना
+    title: Key frame the first frame
   - 
-    title: मुख्य फ्रेम पहला फ्रेम
+    title: Key frame the end frame
   - 
-    title: मुख्य फ्रेमअंतिम फ्रेम
+    title: Fine-tune the animation
   - 
-    title: एनिमेशन फाइन-ट्यून करें
-  - 
-    title: "चुनौती: रॉकेट लॉन्च करें"
+    title: "Challenge: launch the rocket"
