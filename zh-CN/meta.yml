@@ -10,16 +10,14 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 interests: weather, art
 technologies: blender
-site_areas: codeclub, webdev
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017年1月1日
+version: 4
+last_tested: 2020-03-01
 steps:
   - 
-    title: 介绍
-  - 
-    title: 你将需要什么
+    title: Introduction
   - 
     title: Where is the camera?
   - 
