@@ -1,19 +1,25 @@
-## Keyframing
+## Key frame the first frame
 
-Let's animate your car!
+The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
 
-For a stop frame animation (also known as stop motion animation), you have to create all of the frames by yourself. This is a lot of work, which is why you are going to use **keyframing**.
+Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
 
-For key frame animation, the animator creates images for particular points in the animation and asks the computer to work out all the other images in between. For example, if your car starts at its current position and four seconds later it should be next to the snowman, the computer will work out a way of driving the car from the start position to the snowman — you don't have to create all the frames by yourself.
++ Make sure that you are on frame 1 by checking the frame number above the timeline.
 
-At the bottom of the Blender window, there is a timeline with a green bar.
+![Frame one](images/blender-frame-1.png)
 
-![Timeline](images/blender-timeline.png)
++ Make sure that the car is selected — click on it to select it.
 
-At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
++ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
-+ Locate the box for **End frame** at the bottom of the screen.
+![Keys](images/blender-keyring.png)
 
-![End frame](images/end-frame.png)
+![LocRotScale](images/blender-locrotscale.png)
 
-+ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
+The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
+
++ Click on the small key with the + on the right-hand side of the **Active Keyring Set** icon to create a key frame.
+
+![Small key](images/blender-key-plus.png)
+
+You can see the key frame represented by a yellow diamond on the timeline.
