@@ -1,27 +1,46 @@
-## Úvod
+## Introduction
 
 Learn how to animate a car driving through a snow scene using Blender.
 
-### Co budeš dělat
+### What you will make
 
 Here is how your finished piece will look:
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-### Co se naučíš
+## \--- collapse \---
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum)"}{:target="_blank"}:
+## title: "What you will learn"
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
 
-### Další informace pro učitele
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: "What you will need"
+
+### Hardware
+
++ A desktop or laptop computer capable of running the Blender software
+
+### Software
+
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
+
+\--- /collapse \---
+
+### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"}.
 
-Použijte odkaz v zápatí pro přístup ke GitHub úložišti tohoto projektu, obsahující ve složce "en/resources" veškeré zdroje, včetně příkladu dokončeného projektu.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/U2lXAQQBok8?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### License
 
