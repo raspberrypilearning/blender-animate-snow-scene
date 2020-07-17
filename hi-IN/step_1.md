@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: आप क्या सीखेंगे
 
 यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
 
@@ -22,26 +22,26 @@
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: आपको किन चीजों की आवश्यकता होगी
 
-### Hardware
+### हार्डवेयर
 
-+ A desktop or laptop computer capable of running the Blender software
++ एक डेस्कटॉप या लैपटॉप कंप्यूटर जो ब्लेंडर सॉफ्टवेयर को चलाने में सक्षम है
 
-### Software
+### सॉफ्टवेयर
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 या उससे नया)
 
 \--- /collapse \---
 
-### Additional information for educators
+### शिक्षकों के लिए अधिक जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
 The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### लाइसेंस
 
-***Animate a snow scene*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***बर्फ का दृश्य एनिमेट करें*** को 3Dami और b3d101, पीटर केम्प, टॉम हैन्स, मोनिक दीवानचंद द्वारा तैयार किया गया है, जिसे [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (क्रिएटिव कॉमन्स एट्रीब्यूशन 4.0 अंतर्राष्ट्रीय लाइसेंस) के अंतर्गत लाइसेंस प्राप्त है।
