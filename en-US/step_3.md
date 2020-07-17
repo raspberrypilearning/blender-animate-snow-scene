@@ -1,31 +1,19 @@
-## Where is the camera?
+## Keyframing
 
-+ Download and open the [starter project](resources/snow-scene-starter.blend){:target="_blank"}.
+Let's animate your car!
 
-You will animate the car to follow this route:
+For a stop frame animation (also known as stop motion animation), you have to create all of the frames by yourself. This is a lot of work, which is why you are going to use **keyframing**.
 
-![Car route](images/blender-proper-car-route.png)
+For key frame animation, the animator creates images for particular points in the animation and asks the computer to work out all the other images in between. For example, if your car starts at its current position and four seconds later it should be next to the snowman, the computer will work out a way of driving the car from the start position to the snowman — you don't have to create all the frames by yourself.
 
-The first thing you should do when animating is check where the camera is.
+At the bottom of the Blender window, there is a timeline with a blue box.
 
-+ Go to render view by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the scene looks like.
+![Timeline](images/blender-timeline.png)
 
-![Initial render](images/blender-initial-render.png)
+At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
 
-The camera angle is not quite right, as you can only see the tip of the snowman's head at the bottom of the screen, and not the whole snowman.
++ Locate the box for **End frame** at the bottom of the screen.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
+![End frame](images/end-frame.png)
 
-+ Right-click on the camera to select it.
-
-+ Rotate your view a little bit until you can see both the camera and the scene.
-
-![Move the camera](images/blender-snowscene-move-camera.png)
-
-+ Move the camera down using the blue handle.
-
-+ Go to render view by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> on a Mac) again to check whether you can now see the whole snowman.
-
-If not, exit the render view and lower the camera a little bit more. If the camera is too low, pull it up a little bit instead. Continue rendering and checking until you have everything in view.
-
-![Final render](images/blender-final-render.png)
++ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
