@@ -1,27 +1,27 @@
-## Key frame the end frame
+## मुख्य फ्रेम अंतिम फ्रेम
 
 + Move the blue box on the timeline to frame 90.
 
-![Frame 90](images/blender-frame-90.png)
+![फ्रेम 90](images/blender-frame-90.png)
 
 + Move the car next to the snowman using the move tool and the blue, green, and red handles.
 
-![Move next to snowman](images/blender-car-nexto-snowman.png)
+![स्नोमैन के बगल में ले जाएँ](images/blender-car-nexto-snowman.png)
 
-Now the car is next to the snowman in frame 90.
+अब कार फ्रेम 90 में स्नोमैन के बगल में है।
 
 + Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
 
-![Small key](images/blender-key-plus.png)
+![छोटी कुंजी](images/blender-key-plus.png)
 
-The computer will work out all the steps of the animation in between frame 1 and frame 90.
+कंप्यूटर फ्रेम 1 और फ्रेम 90 के बीच के एनिमेशन के सभी चरणों का समाधान करेगा।
 
 + Move the blue box on the time line to frame 0.
 
-+ Click **Play** on the controls at the bottom.
++ नीचे दिए गए कंट्रोल्स पर **Play** (प्ले) को क्लिक करें।
 
-![Press play](images/blender-play.png)
+![प्ले दबाएँ](images/blender-play.png)
 
-The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+कार अपनी आरंभ की स्थिति से स्नोमैन के बगल में चली जाएगी। हालांकि, एक छोटा सा मुद्दा है - कार पेड़ों के इर्द-गिर्द जाने के बजाय सीधे पेड़ों में चली जाती है!
 
-![Car drives through trees](images/drive-through-trees.gif)
+![कार पेड़ों के बीच में से होकर निकलती है](images/drive-through-trees.gif)
