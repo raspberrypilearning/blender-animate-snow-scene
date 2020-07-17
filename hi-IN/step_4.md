@@ -1,19 +1,25 @@
-## मुख्य फ्रेम बनाना
+## Key frame the first frame
 
-आइए आपकी कार को एनिमेट करें!
+The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
 
-स्टॉप फ्रेम एनिमेशन (जिसे स्टॉप मोशन एनिमेशन भी कहते हैं) के लिए आपको अपने सभी फ्रेम स्वयं बनाने होते हैं। यह बहुत बड़ा काम है, यही कारण है कि आप **मुख्य फ्रेम तैयार करना** का उपयोग करने जा रहे हैं।
+Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
 
-मुख्य फ्रेम एनिमेशन के लिए, एनिमेटर एनिमेशन में विशेष स्थानों के लिए छवियाँ बनाता है और कंप्यूटर को बीच की अन्य सभी छवियाँ तैयार करने के लिए कहता है। उदाहरण के लिए, यदि आपकी कार अपनी वर्तमान स्थिति से शुरू होती है और चार सेकंड बाद उसे स्नोमैन के बगल में होना चाहिए, तो कंप्यूटर कार को शुरू की स्थिति से चला कर स्नोमैन तक ले जाने का कोई तरीका तैयार करेगा - आपको सभी फ्रेम स्वयं बनाने की ज़रूरत नहीं है।
++ Make sure that you are on frame 1 by checking the frame number above the timeline.
 
-Blender विंडो के नीचे, एक टाइमलाइन है जिसमें हरी पट्टी है।
+![Frame one](images/blender-frame-1.png)
 
-![टाइमलाइन](images/blender-timeline.png)
++ Make sure that the car is selected — click on it to select it.
 
-फिलहाल यह 250 फ्रेम पर सेट है, जिसका मतलब है कि एनिमेशन के लिए कंप्यूटर से 250 छवियों की आउटपुट प्राप्त होगी। 1 सेकंड में 24 फ्रेम हैं, इसलिए 250 छवियों से आपको 10 सेकंड से थोड़े अधिक का एनिमेशन मिलेगा। इस प्रोजेक्ट के लिए, आपको केवल 4 सेकंड से थोड़े अधिक का एनिमेशन चाहिए, तो चलिए अंतिम फ्रेम को 100 पर सेट करते हैं।
++ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
-+ स्क्रीन के निचले हिस्से में **End frame** (अंतिम फ्रेम) के लिए बॉक्स ढूँढें।
+![Keys](images/blender-keyring.png)
 
-![अंतिम फ्रेम](images/end-frame.png)
+![LocRotScale](images/blender-locrotscale.png)
 
-+ **अंतिम फ्रेम** को सेट करने के लिए बॉक्स में `100` टाइप करें, फिर <kbd>Enter</kbd> (एंटर) दबाएँ।
+The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
+
++ Click on the small key with the + on the right-hand side of the **Active Keyring Set** icon to create a key frame.
+
+![Small key](images/blender-key-plus.png)
+
+You can see the key frame represented by a yellow diamond on the timeline.
