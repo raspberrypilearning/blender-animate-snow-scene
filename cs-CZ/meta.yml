@@ -2,7 +2,7 @@
 title: Animate a snow scene
 hero_image: images/banner.png
 description: Animate a car driving through a snow scene using Blender
-theme: modrá #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
@@ -10,16 +10,14 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 interests: weather, art
 technologies: blender
-site_areas: projekty
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2020-03-01
 steps:
   - 
-    title: Úvod
-  - 
-    title: Co budeš potřebovat
+    title: Introduction
   - 
     title: Where is the camera?
   - 
