@@ -1,27 +1,35 @@
-## मुख्य फ्रेम अंतिम फ्रेम
+## Fine-tune the animation
 
-+ टाइमलाइन पर हरी पट्टी को फ्रेम 90 पर ले जाएँ। आप नीचे मेनू में फ्रेम संख्या की जाँच कर सकते हैं।
+It would be much better if the car drove between the trees and then towards the snowman. At about frame 40 (approx. 2 seconds) of the animation, the car needs to be between the trees.
 
-![फ्रेम 90](images/blender-frame-90.png)
++ Click the **Pause** button on the controls to stop the animation.
 
-+ नीले, हरे और लाल हैंडल का उपयोग करके कार को स्नोमैन के बगल में ले जाएँ।
++ Move the blue box on the timeline to frame 40.
 
-![स्नोमैन के बगल में ले जाएँ](images/blender-car-nexto-snowman.png)
+![Frame 40](images/blender-frame-40.png)
 
-अब कार फ्रेम 90 में स्नोमैन के बगल में है।
++ Move the car to a good position between the trees.
 
-+ **Key** (कुंजी) आइकन को फिर से क्लिक करें। टाइमलाइन पर फ्रेम 90 पर एक पीली पट्टी दिखाई देनी चाहिए।
+![Car between trees](images/blender-car-between-trees.png)
 
-![कुंजी बटन](images/small-key.png)
++ Click the **Key +** icon again to create another key frame. Now there should be three yellow diamonds on the timeline.
 
-कंप्यूटर फ्रेम 1 और फ्रेम 90 के बीच के एनिमेशन के सभी चरणों का समाधान करेगा।
++ Click the **Play** button.
 
-+ टाइमलाइन पर हरे रंग की पट्टी को फ्रेम 0 पर ले जाएँ, या नीचे 0 टाइप करें।
+The car now drives around the trees towards the snowman. However, you may have noticed that the angle of the car (its rotation) makes the car look like it is sliding rather than driving. You can fix this by also rotating the car in frame 40.
 
-+ नीचे दिए गए कंट्रोल्स पर **Play** (प्ले) को क्लिक करें।
++ Select frame 40 on the timeline and remove the key frame you just made by clicking the key with the x beside it.
 
-![प्ले दबाएँ](images/blender-play.png)
+![Delete the keyframe](images/blender-key-x.png)
 
-कार अपनी आरंभ की स्थिति से स्नोमैन के बगल में चली जाएगी। हालांकि, एक छोटा सा मुद्दा है - कार पेड़ों के इर्द-गिर्द जाने के बजाय सीधे पेड़ों में चली जाती है!
++ Select the **Rotate** tool.
 
-![कार पेड़ों के बीच में से होकर निकलती है](images/drive-through-trees.gif)
+![Rotate tool](images/blender-rotate-tool.png)
+
++ Rotate the car so that it is pointing in the direction of the snowman.
+
+![Rotate the car](images/blender-rotate-car.png)
+
++ Click the **Key +** icon to re-add the key frame.
+
++ Click **Play** to see what it looks like. It probably looks like the car is driving on ice. Quite funny, but good enough for now. Try to improve the animation.
