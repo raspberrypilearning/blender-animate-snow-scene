@@ -1,25 +1,27 @@
-## मुख्य फ्रेम पहला फ्रेम
+## Key frame the end frame
 
-फ्रेम 1 में कार अपनी आरंभ स्थिति में है, और फ्रेम 90 में इसे स्नोमैन के बगल में होना चाहिए।
++ Move the blue box on the timeline to frame 90.
 
-चलिए फ्रेम 1 को पहले मुख्य फ्रेम के रूप में सेट करते हैं। यह कंप्यूटर को यह बताने जैसा है कि "फ्रेम 1 पर, याद रखें कि आप यहाँ पर हैं।"
+![Frame 90](images/blender-frame-90.png)
 
-+ टाइमलाइन में नीचे फ्रेम संख्या की जाँच करके सुनिश्चित करें कि आप फ्रेम 1 पर हैं।
++ Move the car next to the snowman using the move tool and the blue, green, and red handles.
 
-![फ्रेम एक](images/blender-frame-1.png)
+![Move next to snowman](images/blender-car-nexto-snowman.png)
 
-+ सुनिश्चित करें कि कार का चयन किया गया है - इसे चुनने के लिए इस पर राइट-क्लिक करें।
+Now the car is next to the snowman in frame 90.
 
-+ टाइमलाइन के नीचे **कुंजियाँ** आइकन पर क्लिक करें और आरंभ के फ्रेम में कार के स्थान, रोटेशन और स्केल को रिकॉर्ड करने के लिए **लोकरोटस्केल** का चयन करें।
++ Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
 
-![कुंजियाँ](images/blender-keys.png)
+![Small key](images/blender-key-plus.png)
 
-![LocRotScale](images/blender-locrotscale.png)
+The computer will work out all the steps of the animation in between frame 1 and frame 90.
 
-The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
++ Move the blue box on the time line to frame 0.
 
-+ मुख्य फ्रेम बनाने के लिए **कुंजियाँ** आइकन के दाईं ओर छोटी कुंजी पर क्लिक करें।
++ Click **Play** on the controls at the bottom.
 
-![Small key](images/small-key.png)
+![Press play](images/blender-play.png)
 
-You can see the key frame represented by a yellow bar on the timeline.
+The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+
+![Car drives through trees](images/drive-through-trees.gif)
