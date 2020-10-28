@@ -4,7 +4,7 @@
 
 + एनिमेशन को रोकने के लिए कंट्रोल्स पर **Pause** (पॉज़) बटन पर क्लिक करें।
 
-+ Move the blue box on the timeline to frame 40.
++ टाइमलाइन पर नीली वर्ग को फ्रेम 40 पर ले जाएँ।
 
 ![फ्रेम 40](images/blender-frame-40.png)
 
@@ -12,24 +12,24 @@
 
 ![पेड़ों के बीच में कार](images/blender-car-between-trees.png)
 
-+ Click the **Key +** icon again to create another key frame. Now there should be three yellow diamonds on the timeline.
++ एक और कुंजी फ्रेम बनाने के लिए फिर से **Key** (कुंजी) आइकन पर क्लिक करें। अब टाइमलाइन पर तीन पीली हीरे होनी चाहिए।
 
 + **Play** (प्ले) बटन पर क्लिक करें।
 
 कार अब पेड़ों के चारों ओर चलते हुए स्नोमैन की तरफ जाती है। हालांकि, आपने देखा होगा कि कार के कोण (इसके रोटेशन) से ऐसा लगता है कि कार चल नहीं रही है बल्कि स्लाइड कर रही है। आप फ्रेम 40 में भी कार को रोटेट करके इसे ठीक कर सकते हैं।
 
-+ Select frame 40 on the timeline and remove the key frame you just made by clicking the key with the x beside it.
++ टाइमलाइन पर फ्रेम 40 का चयन करें और आपने अभी-अभी जो मुख्य फ्रेम बनाया है उसके बीच में से जाती हुई लाइन के साथ की कुंजी पर क्लिक करके उसे हटा दें।
 
 ![मुख्य फ्रेम हटाएँ](images/blender-key-x.png)
 
-+ Select the **Rotate** tool.
++ **Rotation** (रोटेशन) टूल का चयन करें।
 
-![Rotate tool](images/blender-rotate-tool.png)
+![रोटेशन टूल](images/blender-rotate-tool.png)
 
 + कार को इस तरह घुमाएँ कि वह स्नोमैन की दिशा में हो।
 
 ![कार को घुमाएँ](images/blender-rotate-car.png)
 
-+ Click the **Key +** icon to re-add the key frame.
++ मुख्य फ्रेम को फिर से जोड़ने के लिए **Key** (कुंजी) आइकन पर क्लिक करें।
 
 + यह देखने के लिए कि यह कैसा दिखता है **** (प्ले) पर क्लिक करें। शायद ऐसा लगता है कि कार बर्फ पर चल रही है। बहुत मज़ेदार है, लेकिन फिलहाल इतना काफी है। एनिमेशन को बेहतर बनाने की कोशिश करें।
