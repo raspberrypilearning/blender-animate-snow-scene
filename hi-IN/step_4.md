@@ -4,13 +4,13 @@
 
 चलिए फ्रेम 1 को पहले मुख्य फ्रेम के रूप में सेट करते हैं। यह कंप्यूटर को यह बताने जैसा है कि "फ्रेम 1 पर, याद रखें कि आप यहाँ पर हैं।"
 
-+ Make sure that you are on frame 1 by checking the frame number above the timeline.
++ सुनिश्चित करें कि आप टाइमलाइन के ऊपर फ्रेम नंबर की जांच करके फ्रेम 1 पर हैं।
 
 ![फ्रेम एक](images/blender-frame-1.png)
 
-+ Make sure that the car is selected — click on it to select it.
++ सुनिश्चित करें कि कार का चयन किया गया है - इसे चुनने के लिए इस पर क्लिक करें।
 
-+ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ स्टार्ट फ्रेम में स्थान, रोटेशन और कार के पैमाने को रिकॉर्ड करने के लिए ** कीरिंग पर क्लिक करें ** ड्रॉपडाउन मेनू समयरेखा से ऊपर, और सक्रिय कीरिंग सेट को ** LocRotScale पर सेट करें ** ।
 
 ![कुंजियाँ](images/blender-keyring.png)
 
@@ -18,8 +18,8 @@
 
 कंप्यूटर यह जाँच करेगा कि कार कहाँ पर है, इसका मुँह किस तरफ है, इसे किस तरह घुमाया जाना है, और यह कितनी बड़ी है।
 
-+ Click on the small key with the + on the right-hand side of the **Active Keyring Set** icon to create a key frame.
++ एक मुख्य फ्रेम बनाने के लिए दाईं ओर के साथ छोटी कुंजी तथा ** सक्रिय कीरिंग सेट ** आइकन पर क्लिक करें |
 
 ![छोटी कुंजी](images/blender-key-plus.png)
 
-You can see the key frame represented by a yellow diamond on the timeline.
+आप टाइमलाइन पर पीले रंग की हीरे द्वारा दर्शाया गया मुख्य फ्रेम देख सकते हैं।
