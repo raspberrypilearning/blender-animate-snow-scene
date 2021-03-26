@@ -10,7 +10,7 @@ Let's set frame 1 as the first key frame. This is like telling the computer "At 
 
 + Make sure that the car is selected — click on it to select it.
 
-+ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
 ![Keys](images/blender-keyring.png)
 
@@ -18,7 +18,7 @@ Let's set frame 1 as the first key frame. This is like telling the computer "At 
 
 The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
 
-+ Click on the small key with the + on the right-hand side of the **Active Keyring Set** icon to create a key frame.
++ Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
 
 ![Small key](images/blender-key-plus.png)
 
