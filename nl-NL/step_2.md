@@ -1,35 +1,35 @@
-## Where is the camera?
+## Waar is de camera?
 
-+ Download and open the [starter project](resources/snow-scene-starter.blend){:target="_blank"}.
++ Download en open het [startproject](resources/snow-scene-starter.blend){:target="_blank"}.
 
-You will animate the car to follow this route:
+Je animeert de auto om deze route te volgen:
 
-![Car route](images/blender-proper-car-route.png)
+![Autoroute](images/blender-proper-car-route.png)
 
-The first thing you should do when animating is check where the camera is.
+Het eerste wat je moet doen bij het animeren is controleren waar de camera is.
 
-+ Go to render view by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the scene looks like.
++ Ga naar de renderweergave door op <kbd>F12</kbd> (of <kbd>FN + F12</kbd> als je een Mac gebruikt) te drukken om te zien hoe de scène eruitziet.
 
-![Initial render](images/blender-initial-render.png)
+![Eerste render](images/blender-initial-render.png)
 
-The camera angle is not quite right, as you can only see the tip of the snowman's head at the bottom of the screen, and not the whole snowman.
+De camerahoek klopt niet helemaal, want je kunt alleen het topje van het hoofd van de sneeuwpop onder in het scherm zien, en niet de hele sneeuwpop.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-+ Click on the camera to select it.
++ Klik op de camera om deze te selecteren.
 
-+ Rotate your view a little bit until you can see both the camera and the scene.
++ Draai je beeld een beetje totdat je zowel de camera als de scène kunt zien.
 
-![Move the camera](images/blender-snowscene-move-camera.png)
+![Verplaats de camera](images/blender-snowscene-move-camera.png)
 
-+ Select the move tool and move the camera down using the blue handle.
++ Selecteer het verplaatsingsgereedschap (Move) en beweeg de camera omlaag met het blauwe handvat.
 
-![Move tool](images/blender-move-tool.png)
+![Verplaatsingsgereedschap](images/blender-move-tool.png)
 
-+ Go to render view by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> on a Mac) again to check whether you can now see the whole snowman.
++ Ga naar de renderweergave door <kbd>F12</kbd> (<kbd>FN + F12</kbd> op een Mac) te drukken om te controleren of je nu de hele sneeuwpop kunt zien.
 
-If not, exit the render view and lower the camera a little bit more. If the camera is too low, pull it up a little bit instead. Continue rendering and checking until you have everything in view. If the scene is too dark, select the Lamp and increase the Power value.
+Als dit niet het geval is, verlaat de renderweergave en laat de camera iets verder zakken. Als de camera te laag staat, trek hem dan een klein stukje omhoog. Ga door met renderen en controleer totdat je alles in beeld hebt. Als de scène te donker is, selecteer dan de Lamp en verhoog de waarde van Power (vermogen).
 
-![Lamp power](images/blender-lamp-power.png)
+![Lampvermogen](images/blender-lamp-power.png)
 
-![Final render](images/blender-final-render.png)
+![Laatste render](images/blender-final-render.png)
