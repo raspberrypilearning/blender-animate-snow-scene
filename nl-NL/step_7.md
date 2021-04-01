@@ -1,9 +1,9 @@
-## Challenge: launch the rocket
+## Uitdaging: lanceer de raket
 
-+ There is a rocket hidden behind the hut. Can you get it to launch, fly across the scene, and squash the snowman?
++ Er is een raket verborgen achter de hut. Kun jij hem lanceren, over de scène laten vliegen en de sneeuwpop platdrukken?
 
-![Flying rocket](images/blender-flying-rocket.png)
+![Vliegende raket](images/blender-flying-rocket.png)
 
-+ You can download another scene to animate [here](resources/bunny-challenge.blend). It looks like this:
++ Je kunt [hier](resources/bunny-challenge.blend) een andere scène downloaden om te animeren. Het ziet er zo uit:
 
-![Bunny challenge](images/blender-bunny-challenge.png)
+![Konijnenuitdaging](images/blender-bunny-challenge.png)
