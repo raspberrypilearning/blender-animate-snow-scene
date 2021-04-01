@@ -10,7 +10,7 @@
 
 + सुनिश्चित करें कि कार का चयन किया गया है - इसे चुनने के लिए इस पर क्लिक करें।
 
-+ स्टार्ट फ्रेम में स्थान, रोटेशन और कार के पैमाने को रिकॉर्ड करने के लिए ** कीरिंग पर क्लिक करें ** ड्रॉपडाउन मेनू समयरेखा से ऊपर, और सक्रिय कीरिंग सेट को ** LocRotScale पर सेट करें ** ।
++ Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
 ![कुंजियाँ](images/blender-keyring.png)
 
@@ -18,7 +18,7 @@
 
 कंप्यूटर यह जाँच करेगा कि कार कहाँ पर है, इसका मुँह किस तरफ है, इसे किस तरह घुमाया जाना है, और यह कितनी बड़ी है।
 
-+ एक मुख्य फ्रेम बनाने के लिए दाईं ओर के साथ छोटी कुंजी तथा ** सक्रिय कीरिंग सेट ** आइकन पर क्लिक करें |
++ Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
 
 ![छोटी कुंजी](images/blender-key-plus.png)
 
