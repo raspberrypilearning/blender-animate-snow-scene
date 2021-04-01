@@ -1,0 +1,25 @@
+---
+title: Animeer een sneeuwscène
+hero_image: images/banner.png
+description: Animeer een auto die door een sneeuwscène rijdt met behulp van Blender
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: weather, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-03-01
+steps:
+  - title: Inleiding
+  - title: Waar is de camera?
+  - title: Sleutelbeelden
+  - title: Het eerste sleutelbeeld
+  - title: Het laatste sleutelbeeld
+  - title: Verfijn de animatie
+  - title: "Uitdaging: lanceer de raket"
