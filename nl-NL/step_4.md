@@ -1,25 +1,25 @@
-## Key frame the first frame
+## Het eerste sleutelbeeld
 
-The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
+De auto staat op de startpositie in beeld 1 en zou naast de sneeuwpop moeten staan in beeld 90.
 
-Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
+Laten we beeld 1 instellen als het eerste sleutelbeeld. Dit is alsof je de computer vertelt "Op beeld 1, onthoud dat je hier bent."
 
-+ Make sure that you are on frame 1 by checking the frame number above the timeline.
++ Zorg ervoor dat je op beeld 1 staat door het beeldnummer boven de tijdlijn te controleren.
 
-![Frame one](images/blender-frame-1.png)
+![Beeld een](images/blender-frame-1.png)
 
-+ Make sure that the car is selected — click on it to select it.
++ Zorg ervoor dat de auto is geselecteerd — klik erop om hem te selecteren.
 
-+ Click the **Keyring** dropdown menu above the timeline, and set the Active Keyring Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
 
-![Keys](images/blender-keyring.png)
+![Sleutels](images/blender-keyring.png)
 
-![LocRotScale](images/blender-locrotscale.png)
+![Locatie, rotatie en schaal](images/blender-locrotscale.png)
 
-The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
+De computer zal uitrekenen waar de auto is, in welke richting hij staat, hoe hij gedraaid staat en hoe groot hij is.
 
-+ Click on the small key with the + on the right-hand side of the **Active Keyring Set** icon to create a key frame.
++ Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
 
-![Small key](images/blender-key-plus.png)
+![Kleine sleutel](images/blender-key-plus.png)
 
-You can see the key frame represented by a yellow diamond on the timeline.
+Je kunt het sleutelbeeld zien, vertegenwoordigd door een gele diamant op de tijdlijn.
