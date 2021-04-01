@@ -1,19 +1,19 @@
-## Keyframing
+## Sleutelbeelden
 
-Let's animate your car!
+Laten we je auto animeren!
 
-For a stop frame animation (also known as stop motion animation), you have to create all of the frames by yourself. This is a lot of work, which is why you are going to use **keyframing**.
+Voor een stopframe-animatie (ook wel stop-motionanimatie genoemd) moet je alle frames (beelden) zelf maken. Dit is een hoop werk, daarom ga je **keyframing** (sleutelbeelden) gebruiken.
 
-For key frame animation, the animator creates images for particular points in the animation and asks the computer to work out all the other images in between. For example, if your car starts at its current position and four seconds later it should be next to the snowman, the computer will work out a way of driving the car from the start position to the snowman — you don't have to create all the frames by yourself.
+Voor keyframe-animaties maakt de animator afbeeldingen voor bepaalde punten in de animatie en vraagt de computer om alle andere afbeeldingen daartussen uit te werken. Als je auto bijvoorbeeld start op zijn huidige positie en vier seconden later zou hij naast de sneeuwpop moeten zijn, dan zal de computer een manier bedenken om de auto van de startpositie naar de sneeuwpop te rijden — je hoeft niet alle beelden zelf te maken.
 
-At the bottom of the Blender window, there is a timeline with a blue box.
+Onderaan het Blender-venster is er een tijdlijn met een blauw vak.
 
-![Timeline](images/blender-timeline.png)
+![Tijdlijn](images/blender-timeline.png)
 
-At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
+Momenteel is deze ingesteld op 250 frames, wat betekent dat de computer voor de animatie 250 beelden uitvoert. Er zitten 24 frames in 1 seconde, dus 250 beelden geven je iets meer dan 10 seconden aan animatie. Voor dit project wil je slechts iets meer dan 4 seconden animatie, dus laten we het eindbeeld op 100 zetten.
 
-+ Locate the box for **End frame** at the bottom of the screen.
++ Zoek het vak voor **Eindbeeld** onderaan het scherm.
 
-![End frame](images/end-frame.png)
+![Eindbeeld](images/end-frame.png)
 
-+ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
++ Stel het **Eindbeeld** in door `100` in het vak in te typen en druk vervolgens op <kbd>Enter</kbd>.
