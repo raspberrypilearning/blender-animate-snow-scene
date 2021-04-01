@@ -1,27 +1,27 @@
-## Key frame the end frame
+## Het laatste sleutelbeeld
 
-+ Move the blue box on the timeline to frame 90.
++ Verplaats het blauwe vak op de tijdlijn naar beeld 90.
 
-![Frame 90](images/blender-frame-90.png)
+![Beeld 90](images/blender-frame-90.png)
 
-+ Move the car next to the snowman using the move tool and the blue, green, and red handles.
++ Verplaats de auto tot naast de sneeuwpop met behulp van het verplaatsingsgereedschap en de blauwe, groene en rode handvatten.
 
-![Move next to snowman](images/blender-car-nexto-snowman.png)
+![Ga vlak naast sneeuwpop staan](images/blender-car-nexto-snowman.png)
 
-Now the car is next to the snowman in frame 90.
+Nu staat de auto naast de sneeuwpop in beeld 90.
 
-+ Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
++ Klik nogmaals op het kleine **Sleutel +** pictogram. Een gele diamant zou op de tijdlijn moeten verschijnen bij beeld 90.
 
-![Small key](images/blender-key-plus.png)
+![Kleine sleutel](images/blender-key-plus.png)
 
-The computer will work out all the steps of the animation in between frame 1 and frame 90.
+De computer berekent alle stappen van de animatie tussen beeld 1 en beeld 90.
 
-+ Move the blue box on the time line to frame 0.
++ Verplaats het blauwe vak op de tijdlijn naar beeld 0.
 
-+ Click **Play** on the controls at the bottom.
++ Klik op **Afspelen** op de bedieningselementen onderaan.
 
-![Press play](images/blender-play.png)
+![Druk op afspelen](images/blender-play.png)
 
-The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+De auto zal van zijn startpositie naar de plaats naast de sneeuwpop rijden. Er is echter een klein probleem: de auto rijdt dwars door de bomen heen in plaats van er omheen!
 
-![Car drives through trees](images/drive-through-trees.gif)
+![Auto rijdt door bomen](images/drive-through-trees.gif)
