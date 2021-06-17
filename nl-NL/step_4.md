@@ -10,7 +10,7 @@ Laten we beeld 1 instellen als het eerste sleutelbeeld. Dit is alsof je de compu
 
 + Zorg ervoor dat de auto is geselecteerd — klik erop om hem te selecteren.
 
-+ Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Klik op het **Keying** boven de tijdlijn en stel de Active Keying Set in op **** om de locatie, rotatie en schaal van de auto in het startframe vast te leggen.
 
 ![Sleutels](images/blender-keyring.png)
 
@@ -18,7 +18,7 @@ Laten we beeld 1 instellen als het eerste sleutelbeeld. Dit is alsof je de compu
 
 De computer zal uitrekenen waar de auto is, in welke richting hij staat, hoe hij gedraaid staat en hoe groot hij is.
 
-+ Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
++ Klik op de kleine toets met het + aan de rechterkant van het **Active Keying Set** pictogram om een sleutelframe te maken.
 
 ![Kleine sleutel](images/blender-key-plus.png)
 
