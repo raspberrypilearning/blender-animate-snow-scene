@@ -17,11 +17,13 @@ version: 4
 last_tested: 2020-03-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Waar is de camera?
 - title: Sleutelbeelden
+  completion:
+  - engaged
 - title: Het eerste sleutelbeeld
 - title: Het laatste sleutelbeeld
 - title: Verfijn de animatie
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: lanceer de raket'
