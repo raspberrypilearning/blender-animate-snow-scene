@@ -40,7 +40,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe> 
 
 ### License
 
