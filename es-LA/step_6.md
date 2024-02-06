@@ -1,35 +1,35 @@
-## Fine-tune the animation
+## Ajusta detalles en la animación
 
-It would be much better if the car drove between the trees and then towards the snowman. At about frame 40 (approx. 2 seconds) of the animation, the car needs to be between the trees.
+Sería mucho mejor si el auto manejara entre los árboles y luego se dirigiera hacia el muñeco de nieve. Cerca del cuadro 40 (aproximadamente 2 segundos) de la animación, el auto debe estar entre los árboles.
 
-+ Click the **Pause** button on the controls to stop the animation.
++ Haz clic en el botón **Pause** en los controles para detener la animación.
 
-+ Move the blue box on the timeline to frame 40.
++ Mueve la caja azul al cuadro 40 en la línea de tiempo.
 
-![Frame 40](images/blender-frame-40.png)
+![Cuadro 40](images/blender-frame-40.png)
 
-+ Move the car to a good position between the trees.
++ Coloca el auto en una posición correcta entre los árboles.
 
-![Car between trees](images/blender-car-between-trees.png)
+![Auto entre árboles](images/blender-car-between-trees.png)
 
-+ Click the **Key +** icon again to create another key frame. Now there should be three yellow diamonds on the timeline.
++ Haz clic en el icono de la **Llave +** para crear un nuevo cuadro clave. En la línea del tiempo, ahora debería haber 3 diamantes amarillos.
 
-+ Click the **Play** button.
++ Haz clic en botón **Play**.
 
-The car now drives around the trees towards the snowman. However, you may have noticed that the angle of the car (its rotation) makes the car look like it is sliding rather than driving. You can fix this by also rotating the car in frame 40.
+Ahora el auto bordea los árboles y se dirige hacia el muñeco de nieve. Sin embargo, habrás notado que el ángulo del auto (su rotación) hace parecer que el auto se desliza en lugar de trasladarse. Esto se puede arreglar rotando el coche en el cuadro 40 también.
 
-+ Select frame 40 on the timeline and remove the key frame you just made by clicking the key with the x beside it.
++ Selecciona el cuadro 40 en la línea de tiempo y elimina el cuadro clave que acabas de crear haciendo clic en el icono de la llave con la x al lado.
 
-![Delete the keyframe](images/blender-key-x.png)
+![Eliminar el cuadro clave](images/blender-key-x.png)
 
-+ Select the **Rotate** tool.
++ Selecciona la herramienta **Rotate** para rotar.
 
-![Rotate tool](images/blender-rotate-tool.png)
+![Herramienta Rotar](images/blender-rotate-tool.png)
 
-+ Rotate the car so that it is pointing in the direction of the snowman.
++ Gira el auto para que apunte en dirección al muñeco de nieve.
 
-![Rotate the car](images/blender-rotate-car.png)
+![Girar el auto](images/blender-rotate-car.png)
 
-+ Click the **Key +** icon to re-add the key frame.
++ Haz clic en el icono de la **Llave +** para agregar un nuevo cuadro clave.
 
-+ Click **Play** to see what it looks like. It probably looks like the car is driving on ice. Quite funny, but good enough for now. Try to improve the animation.
++ Haz clic en **Play** para ver el resultado. Seguramente parece como si el auto se moviera sobre hielo. Es gracioso, pero lo suficientemente bueno por ahora. Intenta mejorar la animación.
