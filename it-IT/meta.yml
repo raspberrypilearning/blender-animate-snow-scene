@@ -2,7 +2,7 @@
 title: Animate a snow scene
 hero_image: images/banner.png
 description: Animate a car driving through a snow scene using Blender
-theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue
 duration: 2
 listed: true
 ingredient: false
@@ -22,11 +22,15 @@ steps:
     title: Where is the camera?
   - 
     title: Keyframing
+    completion:
+      - engaged
   - 
     title: Key frame the first frame
   - 
     title: Key frame the end frame
   - 
     title: Fine-tune the animation
+    completion:
+      - internal
   - 
-    title: "Challenge: launch the rocket"
+    title: 'Challenge: launch the rocket'
