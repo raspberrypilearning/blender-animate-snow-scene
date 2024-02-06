@@ -2,7 +2,7 @@
 title: Animeer een sneeuwscène
 hero_image: images/banner.png
 description: Animeer een auto die door een sneeuwscène rijdt met behulp van Blender
-theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue
 duration: 2
 listed: true
 ingredient: false
@@ -22,11 +22,15 @@ steps:
     title: Waar is de camera?
   - 
     title: Sleutelbeelden
+    completion:
+      - engaged
   - 
     title: Het eerste sleutelbeeld
   - 
     title: Het laatste sleutelbeeld
   - 
     title: Verfijn de animatie
+    completion:
+      - internal
   - 
-    title: "Uitdaging: lanceer de raket"
+    title: 'Uitdaging: lanceer de raket'
