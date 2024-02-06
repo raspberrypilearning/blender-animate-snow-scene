@@ -1,19 +1,19 @@
-## Keyframing
+## Cuadros claves (o "Keyframing")
 
-Let's animate your car!
+¡Vamos a animar el auto!
 
-For a stop frame animation (also known as stop motion animation), you have to create all of the frames by yourself. This is a lot of work, which is why you are going to use **keyframing**.
+Para una animación de cuadro por cuadro (también conocida como animación "stop-motion"), tienes que crear todos los cuadros uno por uno. Esto requiere de mucho trabajo, por lo que tienes que utilizar un método conocido como **keyframing**, o de cuadros clave.
 
-For key frame animation, the animator creates images for particular points in the animation and asks the computer to work out all the other images in between. For example, if your car starts at its current position and four seconds later it should be next to the snowman, the computer will work out a way of driving the car from the start position to the snowman — you don't have to create all the frames by yourself.
+Para realizar una animación de cuadro por cuadro, se crean imágenes de algunos puntos específicos dentro de la animación y se le pide a la computadora que descifre todas las imágenes intermedias. Por ejemplo, si el auto empieza en su posición actual y, cuatro segundos después, debería estar junto al muñeco de nieve, la computadora encontrará una forma de dirigir el auto desde la posición inicial hacia el muñeco de nieve, sin necesidad de crear uno por uno todos los cuadros.
 
-At the bottom of the Blender window, there is a timeline with a blue box.
+En la parte inferior de la ventana de Blender, hay una línea de tiempo con una caja azul.
 
-![Timeline](images/blender-timeline.png)
+![Línea de Tiempo](images/blender-timeline.png)
 
-At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
+Por ahora, está configurada en 250 cuadros, lo que significa que la computadora creará 250 imágenes para la animación. Hay 24 cuadros por segundo, por lo que 250 imágenes resultarán en poco más de 10 segundos de animación. Para este proyecto, solo se requieren un poco más de 4 segundos de animación, así que se puede establecer el cuadro final en 100.
 
-+ Locate the box for **End frame** at the bottom of the screen.
++ Localiza la casilla del cuadro final o, **End frame**, al final de la pantalla.
 
-![End frame](images/end-frame.png)
+![Cuadro final](images/end-frame.png)
 
-+ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
++ Ajusta el cuadro final, o **End frame**, escribiendo `100` en la casilla y luego presiona <kbd>Enter</kbd> para confirmar.
