@@ -1,47 +1,47 @@
-## Introduction
+## Introducción
 
-Learn how to animate a car driving through a snow scene using Blender.
+Aprende a animar un auto atraviesa una escena en la nieve usando Blender.
 
-### What you will make
+### Lo que harás
 
-Here is how your finished piece will look:
+Así se verá tu trabajo terminado:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## \--- collapse \---
+## \--- colapsar \---
 
-## title: "What you will learn"
+## título: "Lo que aprenderás"
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de Creación Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
++ [Combinación de recursos 2D y 3D para montar un proyecto](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
 
-\--- /collapse \---
+\--- /colapsar \---
 
-## \--- collapse \---
+## \--- colapsar \---
 
-## title: "What you will need"
+## título: "Lo que necesitarás"
 
-### Hardware
+### Equipo
 
-+ A desktop or laptop computer capable of running the Blender software
++ Una computadora de escritorio o una portátil que pueda correr el programa Blender
 
-### Software
+### Programa
 
-+ [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
++ [Blender](https://www.blender.org/download/){:target="_blank"} (versión 2.8 o más reciente)
 
-\--- /collapse \---
+\--- /colapsar \---
 
-### Additional information for educators
+### Información adicional para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print){:target="_blank"}.
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/blender-animate-snow-scene/print).{:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Usa el enlace en el pie de página para acceder al repositorio de GitHub de este proyecto, que contiene todos los recursos (incluyendo un ejemplo de proyecto terminado) en la carpeta 'en/resources'.
 
-The following video tutorial covers the same concepts and includes some useful keyboard shortcuts: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+El siguiente video es un tutorial que abarca los mismos conceptos y además incluye algunos atajos útiles del teclado: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe> 
 
-### License
+### Licencia
 
-***Animate a snow scene*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Anima una escena en la nieve*** de 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand tiene licencia conforme a la ["Licencia internacional de Creative Commons Attribution 4".](http://creativecommons.org/licenses/by-sa/4.0/).
