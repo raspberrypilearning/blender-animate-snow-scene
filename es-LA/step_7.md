@@ -1,9 +1,9 @@
-## Challenge: launch the rocket
+## Desafío: lanza el cohete
 
-+ There is a rocket hidden behind the hut. Can you get it to launch, fly across the scene, and squash the snowman?
++ Hay un cohete escondido detrás de la cabaña. ¿Puedes lanzarlo y hacerlo volar a través de la escena para que aplaste al muñeco de nieve?
 
-![Flying rocket](images/blender-flying-rocket.png)
+![Cohete volador](images/blender-flying-rocket.png)
 
-+ You can download another scene to animate [here](resources/bunny-challenge.blend). It looks like this:
++ Puedes descargar otra escena para animar [aquí](resources/bunny-challenge.blend). Se ve así:
 
-![Bunny challenge](images/blender-bunny-challenge.png)
+![Desafío del conejito](images/blender-bunny-challenge.png)
