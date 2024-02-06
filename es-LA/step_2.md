@@ -1,35 +1,35 @@
-## Where is the camera?
+## ¿Dónde está la cámara?
 
-+ Download and open the [starter project](resources/snow-scene-starter.blend){:target="_blank"}.
++ Descarga y abre el [proyecto inicial](resources/snow-scene-starter.blend){:target="_blank"}.
 
-You will animate the car to follow this route:
+Vas a animar el auto para que siga el recorrido de la imagen:
 
-![Car route](images/blender-proper-car-route.png)
+![Recorrido del auto](images/blender-proper-car-route.png)
 
-The first thing you should do when animating is check where the camera is.
+Lo primero que hay que hacer al animar es revisar la posición de la cámara.
 
-+ Go to render view by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the scene looks like.
++ Para ver como se ve la escena terminada, hay que renderizar la imagen presionando <kbd>F12</kbd> (o <kbd>FN + F12</kbd> si estás usando una Mac).
 
-![Initial render](images/blender-initial-render.png)
+![Renderizado inicial](images/blender-initial-render.png)
 
-The camera angle is not quite right, as you can only see the tip of the snowman's head at the bottom of the screen, and not the whole snowman.
+El ángulo de la cámara no es del todo correcto, ya que solo se puede ver el extremo de la cabeza del muñeco de nieve en la parte inferior de la pantalla pero no todo el muñeco.
 
-+ Press <kbd>ESC</kbd> to get out of the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista de renderizado.
 
-+ Click on the camera to select it.
++ Haz clic sobre la cámara para seleccionarla.
 
-+ Rotate your view a little bit until you can see both the camera and the scene.
++ Gira la vista de a poco hasta que logres ver la cámara y la escena.
 
-![Move the camera](images/blender-snowscene-move-camera.png)
+![Mover la cámara](images/blender-snowscene-move-camera.png)
 
-+ Select the move tool and move the camera down using the blue handle.
++ Selecciona la herramienta "mover" para bajar la cámara usando la flecha azul.
 
-![Move tool](images/blender-move-tool.png)
+![Herramienta de movimiento](images/blender-move-tool.png)
 
-+ Go to render view by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> on a Mac) again to check whether you can now see the whole snowman.
++ Para revisar si se puede ver todo el muñeco de nieve, presiona <kbd>F12</kbd> (o <kbd>FN + F12</kbd> si estás usando una Mac) para renderizar la imagen.
 
-If not, exit the render view and lower the camera a little bit more. If the camera is too low, pull it up a little bit instead. Continue rendering and checking until you have everything in view. If the scene is too dark, select the Lamp and increase the Power value.
+Si aún no se lo ve, sal de la vista de renderizado y baja la cámara un poco más. Y si la cámara está demasiado baja, súbela un poco. Continúa renderizando y comprobando hasta que logres tener toda la vista completa. Si la escena está demasiado oscura, selecciona la lámpara y aumenta el valor de la iluminación.
 
-![Lamp power](images/blender-lamp-power.png)
+![Potencia de la lámpara](images/blender-lamp-power.png)
 
-![Final render](images/blender-final-render.png)
+![Renderizado final](images/blender-final-render.png)
