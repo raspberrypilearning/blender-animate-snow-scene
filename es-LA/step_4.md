@@ -1,25 +1,25 @@
-## Key frame the first frame
+## Crea el primer cuadro clave
 
-The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
+El auto está en el primer cuadro en la posición inicial, y debería estar al lado del muñeco de nieve en el cuadro 90.
 
-Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
+Establezcamos el cuadro 1 como el primer cuadro clave. Es como si le dijéramos a la computadora «En el cuadro 1, recuerda que estás aquí»
 
-+ Make sure that you are on frame 1 by checking the frame number above the timeline.
++ Asegúrate de que estés en el cuadro 1 revisando el número de cuadro sobre la linea de tiempo.
 
-![Frame one](images/blender-frame-1.png)
+![Primer Cuadro](images/blender-frame-1.png)
 
-+ Make sure that the car is selected — click on it to select it.
++ Asegúrate de que el auto esté seleccionado —haz clic en él para seleccionarlo.
 
-+ Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
++ Haz clic en el menú desplegable **Keying** sobre la línea de tiempo, y configura la casilla de "Active Keying Set" en **LocRotScale** para guardar la ubicación, la rotación, y la escala del auto en el primer cuadro.
 
-![Keys](images/blender-keyring.png)
+![Llaves](images/blender-keyring.png)
 
 ![LocRotScale](images/blender-locrotscale.png)
 
-The computer will work out where the car is, which way it is facing, how it is rotated, and how big it is.
+La computadora determinará dónde se encuentra el auto, hacia dónde se dirige, cómo gira y qué tan grande es la rotación.
 
-+ Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
++ Haz clic en el icono de la llave con el símbolo + que se encuentra a la derecha del icono **Active Keying Set** para crear un cuadro clave.
 
-![Small key](images/blender-key-plus.png)
+![Llave pequeña](images/blender-key-plus.png)
 
-You can see the key frame represented by a yellow diamond on the timeline.
+Puedes observar que el cuadro clave está identificado por un diamante amarillo en la línea de tiempo.
