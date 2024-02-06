@@ -1,27 +1,27 @@
-## Key frame the end frame
+## Crea el último cuadro clave
 
-+ Move the blue box on the timeline to frame 90.
++ Mueve la caja azul al cuadro 90 de la línea de tiempo.
 
-![Frame 90](images/blender-frame-90.png)
+![Frame 90 set on timeline within Marker settings](images/blender-frame-90.png)
 
-+ Move the car next to the snowman using the move tool and the blue, green, and red handles.
++ Mueve el auto junto al muñeco de nieve usando la herramienta para mover y las flechas azul, verde y roja.
 
-![Move next to snowman](images/blender-car-nexto-snowman.png)
+![Objects within an animation inckuding, trees, a house,and a car next to a snowman](images/blender-car-nexto-snowman.png)
 
-Now the car is next to the snowman in frame 90.
+Ahora el auto está al lado del muñeco de nieve en el cuadro 90.
 
-+ Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
++ De nuevo, haz clic en el icono de la **Llave +**. Un diamante amarillo debería aparecer en la línea de tiempo del cuadro 90.
 
-![Small key](images/blender-key-plus.png)
+![Small key icon on LocRotScale menu option](images/blender-key-plus.png)
 
-The computer will work out all the steps of the animation in between frame 1 and frame 90.
+La computadora se encargará de todos los pasos de la animación entre el cuadro 1 y el cuadro 90.
 
-+ Move the blue box on the time line to frame 0.
++ Mueve la caja azul al cuadro 0 de la línea de tiempo.
 
-+ Click **Play** on the controls at the bottom.
++ Haz clic en **Play** en los controles de la parte inferior.
 
-![Press play](images/blender-play.png)
+![Press play button highlighted in a row of button controls](images/blender-play.png)
 
-The car will move from its starting position to next to the snowman. However, there is a bit of an issue — the car drives directly into the trees rather than going around them!
+El auto se trasladará desde su posición inicial hacia el costado del muñeco de nieve. Sin embargo, hay un pequeño problema: ¡el auto se mete directamente por los árboles en lugar de bordearlos!
 
-![Car drives through trees](images/drive-through-trees.gif)
+![Animation showing a car driving through trees](images/drive-through-trees.gif)
