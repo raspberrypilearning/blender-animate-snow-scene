@@ -40,7 +40,7 @@
 
 इस परियोजना के GitHub भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण और संपूर्ण परियोजना सहित)।
 
-निम्नलिखित वीडियो ट्यूटोरियल समान अवधारणाओं को शामिल करता है और इसमें कुछ उपयोगी कीबोर्ड शॉर्टकट शामिल हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+निम्नलिखित वीडियो ट्यूटोरियल समान अवधारणाओं को शामिल करता है और इसमें कुछ उपयोगी कीबोर्ड शॉर्टकट शामिल हैं: <iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe> 
 
 ### लाइसेंस
 
