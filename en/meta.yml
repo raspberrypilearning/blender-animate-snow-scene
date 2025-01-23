@@ -27,3 +27,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: launch the rocket'
+  completion:
+  - external
