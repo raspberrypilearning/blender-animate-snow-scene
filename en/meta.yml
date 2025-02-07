@@ -26,6 +26,7 @@ steps:
 - title: Fine-tune the animation
   completion:
   - internal
-- title: 'Challenge: launch the rocket'
+- title: Challenge
   completion:
   - external
+- title: WHat can you do now?

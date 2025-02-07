@@ -12,8 +12,18 @@ At the bottom of the Blender window, there is a timeline with a blue box.
 
 At the moment it is set to 250 frames, which means 250 images will be output by the computer for the animation. There are 24 frames in 1 second, so 250 images would give you slightly more than 10 seconds of animation. For this project, you only want just over 4 seconds worth of animation, so let's set the end frame to 100.
 
-+ Locate the box for **End frame** at the bottom of the screen.
+--- task ---
+
+ Locate the box for **End frame** at the bottom of the screen.
 
 ![End frame](images/end-frame.png)
 
-+ Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
+--- /task ---
+
+--- task ---
+
+Set the **End frame** by typing `100` into the box, then press <kbd>Enter</kbd>.
+
+--- /task ---
+
+ 
