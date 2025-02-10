@@ -1,5 +1,6 @@
+## What you will do
 
-Learn how to animate a car driving through a snow scene using Blender!
+Animate a car driving through a snow scene, using Blender!
 
 Here is how your finished piece will look:
 

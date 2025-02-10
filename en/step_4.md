@@ -20,7 +20,7 @@ Make sure that the car is selected — click on it to select it.
 
 --- task ---
 
-Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **LocRotScale** to record the location, rotation, and scale of the car in the start frame.
+Click the **Keying** dropdown menu above the timeline, and set the Active Keying Set to **Location, Rotation and Scale** to record the location, rotation, and scale of the car in the start frame.
 
 ![Keys](images/blender-keyring.png)
 

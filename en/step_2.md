@@ -61,7 +61,7 @@ If not, exit the render view and lower the camera a little bit more.
 **Tips:**
 + If the camera is too low, pull it up a little bit instead. 
 + Continue rendering and checking until you have everything in view. 
-+ If the scene is too dark, select the Lamp and increase the Power value.
++ If the scene is too dark, select the Lamp in the Collection (at the top right) and increase the Power value.
 
 ![Lamp power](images/blender-lamp-power.png)
 
