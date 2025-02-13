@@ -1,4 +1,4 @@
-## What you will do
+## What you will make
 
 Animate a car driving through a snow scene, using Blender!
 
@@ -11,10 +11,6 @@ Here is how your finished piece will look:
 ### What you will need
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v4.3.2 or newer)
-
-The following video tutorial covers the same concepts and includes some useful keyboard shortcuts:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7gS6nbyyvE" frameborder="0" allowfullscreen></iframe>
 
 ### License
 

@@ -2,7 +2,7 @@
 
 --- task ---
 
-Move the blue box on the timeline to frame 90.
+Move the blue box on the timeline to frame 96.
 
 ![Frame 90 set on timeline within Marker settings](images/blender-frame-90.png)
 
@@ -20,11 +20,11 @@ Now the car is next to the snowman in frame 90.
 
 --- task ---
 
-Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 90.
+Click the small **Key +** icon again. A yellow diamond should appear on the timeline at frame 96.
 
 ![Small key icon on LocRotScale menu option](images/blender-key-plus.png)
 
-The computer will work out all the steps of the animation in between frame 1 and frame 90.
+The computer will work out all the steps of the animation in between frame 1 and frame 96.
 
 --- /task ---
 

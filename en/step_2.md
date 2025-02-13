@@ -14,7 +14,7 @@ The first thing you should do when animating is check where the camera is.
 
 --- task ---
 
-Go to render view by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're using a Mac) to see what the scene looks like.
+Render the image by clicking ‘Render Image’ in the ‘Render’ menu to see what the scene looks like.
 
 ![Initial render](images/blender-initial-render.png)
 

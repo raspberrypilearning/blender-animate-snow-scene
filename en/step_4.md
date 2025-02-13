@@ -2,7 +2,7 @@
 
 The car is at its starting position in frame 1, and it should be next to the snowman in frame 90.
 
-Let's set frame 1 as the first key frame. This is like telling the computer "At frame 1, remember that you are here."
+Set frame 1 as the first key frame. 
 
 --- task ---
 
@@ -24,7 +24,6 @@ Click the **Keying** dropdown menu above the timeline, and set the Active Keying
 
 ![Keys](images/blender-keyring.png)
 
-![LocRotScale](images/blender-locrotscale.png)
 
 --- /task ---
 
@@ -32,11 +31,12 @@ The computer will work out where the car is, which way it is facing, how it is r
 
 --- task ---
 
-Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame.
+Click on the small key with the + on the right-hand side of the **Active Keying Set** icon to create a key frame. 
 
 ![Small key](images/blender-key-plus.png)
 
-You can see the key frame represented by a yellow diamond on the timeline.
+You can see the key frame represented by a yellow diamond on the timeline. 
+**Tip:** You may have to increase the height of your timeline before the diamond becomes visible.
 
 --- /task ---
 
