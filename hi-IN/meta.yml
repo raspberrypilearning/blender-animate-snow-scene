@@ -17,7 +17,7 @@ version: 4
 last_tested: 2020-03-01
 steps:
   - 
-    title: परिचय
+    title: What you will make
   - 
     title: कैमरा कहाँ है?
   - 
@@ -33,4 +33,6 @@ steps:
     completion:
       - internal
   - 
-    title: 'चुनौती: रॉकेट लॉन्च करें'
+    title: Challenge
+    completion:
+      - external
