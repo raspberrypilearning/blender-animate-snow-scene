@@ -1,9 +1,5 @@
-## चुनौती: रॉकेट लॉन्च करें
+## What can you do now?
 
-+ झोपड़ी के पीछे एक रॉकेट छिपा हुआ है। क्या आप इसे लॉन्च करने, दृश्य में उड़ाने और स्नोमैन को स्क्वैश करने के लिए प्राप्त कर सकते हैं?
+If you are following the [Blender](https://projects.raspberrypi.org/en/pathways/blender-basics){:target="_blank"} pathway, you can move on to the [Render a Snow Scene](https://projects.raspberrypi.org/en/projects/blender-render-snow-scene/1){:target="_blank"} project, where you will output your animation as a video you can share with your friends!<video width="560" height="315" controls> <source src="resources/snow-scene-rendered.mkv" type="video/mp4"> Your browser does not support WebM video, try FireFox or Chrome </video> 
 
-![फ्लाइंग रॉकेट](images/blender-flying-rocket.png)
-
-+ [यहाँ](resources/bunny-challenge.blend) एनिमेट करने के लिए आप एक और दृश्य डाउनलोड कर सकते हैं। यह इस तरह दिखता है:
-
-![बन्नी चुनौती](images/blender-bunny-challenge.png)
+You could also try out another [Blender](https://projects.raspberrypi.org/en/projects?software%5B%5D=blender){:target="_blank"} project, or have a go at putting your new 3D design skills to good use in the [Introduction to Unity](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} game development pathway!
