@@ -1,9 +1,17 @@
-## Uitdaging: lanceer de raket
+## Challenge
 
-+ Er is een raket verborgen achter de hut. Kun jij hem lanceren, over de scène laten vliegen en de sneeuwpop platdrukken?
+\--- task \---
+
+Er is een raket verborgen achter de hut. Kun jij hem lanceren, over de scène laten vliegen en de sneeuwpop platdrukken?
 
 ![Vliegende raket](images/blender-flying-rocket.png)
 
-+ Je kunt [hier](resources/bunny-challenge.blend) een andere scène downloaden om te animeren. Het ziet er zo uit:
+\--- /task \---
+
+\--- task \---
+
+Je kunt [hier](resources/bunny-challenge.blend) een andere scène downloaden om te animeren. Het ziet er zo uit:
 
 ![Konijnenuitdaging](images/blender-bunny-challenge.png)
+
+\--- /task \---
