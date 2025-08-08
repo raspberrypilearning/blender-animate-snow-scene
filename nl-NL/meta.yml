@@ -17,7 +17,7 @@ version: 4
 last_tested: 2020-03-01
 steps:
   - 
-    title: Inleiding
+    title: What you will make
   - 
     title: Waar is de camera?
   - 
@@ -33,4 +33,6 @@ steps:
     completion:
       - internal
   - 
-    title: 'Uitdaging: lanceer de raket'
+    title: Challenge
+    completion:
+      - external
